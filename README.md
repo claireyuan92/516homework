@@ -1,7 +1,7 @@
 # 516homework
 				Comparison Type 
 1	MongoDB 		
-		Intro				Non-relational		
+	Intro				Non-relational		
 						as-a-Service	
 		Pros		Availability	High availability with replica sets. 				  								
 				Flexibility	Offers flexible schema structuring data into JSON which has a more natural data 						format and richer data structure.
